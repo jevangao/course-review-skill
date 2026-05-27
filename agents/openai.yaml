@@ -1,0 +1,4 @@
+interface:
+  display_name: "课程课件复习资料生成"
+  short_description: "从课程课件提炼可核验的复习讲义、速查表、自测题和覆盖报告"
+  default_prompt: "Use $course-slide-study-guide to read these course slides and produce a verified Markdown study guide."
